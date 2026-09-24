@@ -7,7 +7,7 @@
 
 **Software, Firmware und Hardware für Betriebe – aus einer Hand.**
 
-KKAET eGbR entwickelt für Mittelstand, Stadtwerke, Logistik und Industrie:
+KKAET entwickelt für Mittelstand, Stadtwerke, Logistik und Industrie:
 
 - **Software** – Web, App, Backend
 - **Firmware** – Mikrocontroller, Embedded Linux
