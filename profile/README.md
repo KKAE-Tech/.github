@@ -29,6 +29,5 @@ Tinkhofstr. 44
 45731 Waltrop
 
 Vertretungsberechtigte Gesellschafter: Koray Erdemir, Alexandros Kyriazopoulos  
-Telefon: +49 178 8592883  
 E-Mail: [info@kkaet.com](mailto:info@kkaet.com)  
 USt-IdNr.: DE465553961
