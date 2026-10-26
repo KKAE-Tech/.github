@@ -18,4 +18,16 @@ Von der Anforderung über Angebot, Pflichtenheft und Entwicklung bis zu Abnahme,
 
 **Kontakt:** [info@kkaet.com](mailto:info@kkaet.com)
 
-<sub>Unsere Projekt-Repos sind privat – Kunden erhalten Zugriff auf ihr eigenes Projekt.</sub>
+<sub>Unsere Projekt-Repos sind privat.</sub>
+
+## Impressum
+
+Angaben nach § 5 DDG
+
+**KKAET GbR** (Gesellschaft bürgerlichen Rechts)  
+Tinkhofstr. 44  
+45731 Waltrop
+
+Vertretungsberechtigte Gesellschafter: Koray Erdemir, Alexandros Kyriazopoulos  
+E-Mail: [info@kkaet.com](mailto:info@kkaet.com)  
+USt-IdNr.: DE465553961
